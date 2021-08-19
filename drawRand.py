@@ -33,10 +33,3 @@ for i in range(numChar):
     
 #printAll(subjectList)
 subjectList[random.randint(0, numChar - 1)].printChar()
-'''
-i = 0
-test1 = Character('Nia', 'Xenoblade Chronicles 2')
-subjectList[i] = test1
-subjectList[i].printChar()
-test1.printChar()
-'''
